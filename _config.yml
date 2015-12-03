@@ -1,0 +1,28 @@
+name: matter
+favicon: null
+layout_spectrum: 0.944140866631642
+typography_spectrum: 0.43898912868462503
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7466685590334237
+  lightness: 0.8099804776720703
+  saturation: 0.7359270434826612
+  rhythmicContrast: 0.6214148332364857
+purpose: []
